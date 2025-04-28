@@ -7,7 +7,7 @@ A simple mobile app for currency conversion with history tracking.
 - Real-time currency conversion
 - Conversion history saved locally
 - Intuitive user interface
-- Works offline (uses cached exchange rates)
+- Works offline
 
 ## Screens
 
